@@ -23,10 +23,10 @@ The program evaluates the student based on a total maximum score of 100 points, 
 * **Passing Threshold**: A student needs a minimum of **60.0 points** to pass.
   * If the final grade is $\ge 60.0$, the program outputs **PASSED**.
   * If the final grade is $< 60.0$, the program outputs **FAILED** and calculates the missing points required to reach 60.0:
-    
-    $$
-    Missing Points = 60.0 - Final Grade
-    $$
+
+    <div align="center">
+      Missing Points = 60.0 - Final Grade
+   </div>
 
 ## How to Run
 
