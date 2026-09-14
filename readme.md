@@ -6,7 +6,7 @@ This is a simple Java console application that reads a student's name and their 
 
 The project is divided into two primary files:
 
-* **`Program_3.java`**: The main entry point of the application. It handles user input (reading the student's name and three grades), instantiates the `Student` object, and prints the final results. *(Note: The class inside this file is named `Program`)*.
+* **`Program.java`**: The main entry point of the application. It handles user input (reading the student's name and three grades), instantiates the `Student` object, and prints the final results.
 
 * **`Student.java`**: An entity class representing the student. It stores the student's name and grades, and contains the logic to calculate the final grade and the missing points required to pass.
 
